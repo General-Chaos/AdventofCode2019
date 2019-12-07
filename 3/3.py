@@ -16,4 +16,4 @@ print(f"The answer to day 3 part 1 is: {answer1}")
 
 answer2 = mod3.getminimumsteps(grid.getintersections())
 
-print(f"The answer to day 3 part 1 is: {answer2}")
+print(f"The answer to day 3 part 2 is: {answer2}")
